@@ -11,10 +11,8 @@ function Contact()
             
 
         <div className="contact-direct mt-3">
-             <p><b>Direct Contact</b></p>
              <p>Danial Ahmad</p>
-             <p>da2703236@gmail.com</p>
-             <p>+92 3216280966</p>
+             
 
        </div>
 <div className="form-container">
